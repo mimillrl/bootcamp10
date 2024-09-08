@@ -9,3 +9,9 @@ My datarockie bootcamp10 project.
 4. Looker GA4 dashboard
 5. Games paoyingchup
 6. linear regression
+
+## contact me
+reach out to me at mewravi@gmail.com
+
+## image
+![Deadpool](https://blog.fluance.com/wp-content/uploads/2016/10/deadpool.jpg)
